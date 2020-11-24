@@ -3,7 +3,7 @@ Perform MNIST using Lobe(Export Tensorflow Model).
 ![system](https://user-images.githubusercontent.com/69660581/100043780-75e36e80-2e51-11eb-8f06-3906b9b4341a.png)
 
 ## ■Requirements
-- [Lobe](https://lobe.ai/) -> export TensorFlow model. (Please prepare your own ExportTensorflowModel[※1].)
+- [Lobe](https://lobe.ai/) -> export TensorFlow model. (Please prepare your own Export Tensorflow Model.)
 - Server：Local PC or Google Colab
 - Browser：Local PC
 
@@ -23,7 +23,7 @@ conda create -n mnister_tf python=3.7
 conda activate mnister_tf
 pip install tensorflow pillow flask flask_ngrok
 ```
-- Upload `ExportTensorflowModel[※1]` to` mnister_for_tensorflow` folder
+- Upload `export model[※1]` to` mnister_for_tensorflow` folder
 
 ※Like this.
 ```
@@ -51,7 +51,7 @@ sample:https://github.com/PoodleMaster/mnister_for_tensorflow/blob/main/mnister_
 %cd mnister_for_Tensorflow
 !pip install flask flask_ngrok
 ```
-- Upload `ExportTensorflowModel[※1]` to` mnister_for_tensorflow` folder
+- Upload `export model[※1]` to` mnister_for_tensorflow` folder
 
 ※Like this.
 ```
