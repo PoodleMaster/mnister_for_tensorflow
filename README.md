@@ -62,7 +62,7 @@ mnister_for_Tensorflow
 ```
 - Start the server.
 ```
-!python server.py
+!python server.py --colab
 ```
 
 #### (2)Access the server
