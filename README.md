@@ -14,6 +14,8 @@ Perform MNIST using Lobe(Export Tensorflow Model).
 ※See below for details. ( https://qiita.com/PoodleMaster/items/xxxx )
 
 ### ■When starting the server on the local PC
+![sysytem](https://user-images.githubusercontent.com/69660581/100050006-eb543c80-2e5b-11eb-8bdb-bbe7599a8335.png)
+
 #### (1)Start the server
 - Initial settings for starting the server.
 ``` 
@@ -42,6 +44,7 @@ python server.py
 
 
 ### ■When starting the server on the Google Colab
+![system](https://user-images.githubusercontent.com/69660581/100050002-eabba600-2e5b-11eb-87f5-8583f43e31f9.png)
 sample:https://github.com/PoodleMaster/mnister_for_tensorflow/blob/main/mnister_for_tensorflow.ipynb
 
 #### (1)Start the server
