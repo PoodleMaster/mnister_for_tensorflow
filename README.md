@@ -20,6 +20,7 @@ Perform MNIST using Lobe(Tensorflow model).
 git clone https://github.com/PoodleMaster/mnister_for_Tensorflow
 cd mnister_for_Tensorflow
 conda create -n mnister_tf python=3.7
+conda activate mnister_tf
 pip install tensorflow pillow flask flask_ngrok
 ```
 - Upload `export model(※1)` to` mnister_for_tensorflow` folder
