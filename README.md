@@ -1,4 +1,4 @@
-# mnister_for_Tensorflow
+# mnister_for_tensorflow
 Perform MNIST using Lobe(Export Tensorflow Model).
 ![system](https://user-images.githubusercontent.com/69660581/100043780-75e36e80-2e51-11eb-8f06-3906b9b4341a.png)
 
