@@ -3,7 +3,7 @@ Perform MNIST using Lobe(Tensorflow model).
 ![system](https://xxxx)
 
 ## ■Requirements
-- [Lobe](https://lobe.ai/) -> export TensorFlow model.
+- [Lobe](https://lobe.ai/) -> export TensorFlow model. (Please prepare your own export model.)
 - Server：Local PC or Google Colab
 - Browser：Local PC
 
