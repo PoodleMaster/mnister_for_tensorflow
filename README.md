@@ -23,7 +23,7 @@ conda create -n mnister_tf python=3.7
 conda activate mnister_tf
 pip install tensorflow pillow flask flask_ngrok
 ```
-- Upload `export model[※1]` to` mnister_for_tensorflow` folder
+- Upload `export model`[(※1)](https://github.com/PoodleMaster/mnister_for_tensorflow/blob/main/README.md#supplement) to` mnister_for_tensorflow` folder
 
 ※Like this.
 ```
@@ -51,7 +51,7 @@ sample:https://github.com/PoodleMaster/mnister_for_tensorflow/blob/main/mnister_
 %cd mnister_for_Tensorflow
 !pip install flask flask_ngrok
 ```
-- Upload `export model[※1]` to` mnister_for_tensorflow` folder
+- Upload `export model`[(※1)](https://github.com/PoodleMaster/mnister_for_tensorflow/blob/main/README.md#supplement) to` mnister_for_tensorflow` folder
 
 ※Like this.
 ```
