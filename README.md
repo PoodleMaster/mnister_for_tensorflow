@@ -34,6 +34,8 @@ python server.py
 
 
 ### ■When starting the server on the Google Colab
+sample:https://github.com/PoodleMaster/mnister_for_tensorflow/blob/main/mnister_for_tensorflow.ipynb
+
 #### (1)Start the server
 - Initial settings for starting the server.
 ``` 
