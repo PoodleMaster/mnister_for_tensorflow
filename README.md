@@ -50,7 +50,7 @@ python server.py
 - Access the URL (http://xxxxxxxxxxxx.ngrok.io) issued by NGROK.
 
 ## ■Supplement
-※1：export model
+※1：export model <- [TensorFlow Model] exported by Lobe.
 ```
 export model
 │
