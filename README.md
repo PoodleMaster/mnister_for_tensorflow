@@ -1,6 +1,6 @@
 # mnister_for_Tensorflow
 Perform MNIST using Lobe(Tensorflow model).
-![system](https://xxxx)
+![system](https://user-images.githubusercontent.com/69660581/100043780-75e36e80-2e51-11eb-8f06-3906b9b4341a.png)
 
 ## ■Requirements
 - [Lobe](https://lobe.ai/) -> export TensorFlow model. (Please prepare your own export model.)
