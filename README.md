@@ -24,6 +24,11 @@ conda activate mnister_tf
 pip install tensorflow pillow flask flask_ngrok
 ```
 - Upload `export model(※1)` to` mnister_for_tensorflow` folder
+```
+mnister_for_Tensorflow
+│
+├─export model
+```
 - Start the server.
 ```
 python server.py
@@ -44,6 +49,11 @@ sample:https://github.com/PoodleMaster/mnister_for_tensorflow/blob/main/mnister_
 !pip install flask flask_ngrok
 ```
 - Upload `export model(※1)` to` mnister_for_tensorflow` folder
+```
+mnister_for_Tensorflow
+│
+├─export model
+```
 - Start the server.
 ```
 !python server.py
