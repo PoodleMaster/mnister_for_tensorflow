@@ -25,6 +25,7 @@ pip install tensorflow pillow flask flask_ngrok
 ```
 - Upload `export model(※1)` to` mnister_for_tensorflow` folder
 ```
+※Like this.
 mnister_for_Tensorflow
   │
   ├─export model
@@ -51,6 +52,7 @@ sample:https://github.com/PoodleMaster/mnister_for_tensorflow/blob/main/mnister_
 ```
 - Upload `export model(※1)` to` mnister_for_tensorflow` folder
 ```
+※Like this.
 mnister_for_Tensorflow
   │
   ├─export model
