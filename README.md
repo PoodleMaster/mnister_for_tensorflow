@@ -10,6 +10,7 @@ Perform MNIST using Lobe(Tensorflow model).
 ## ■Starting Method
 - Start the server on your local PC or Google Colab.
 - Start Browser on your local PC and access the server (http://127.0.0.1:5000/).
+
 ※See below for details. ( https://qiita.com/PoodleMaster/items/xxxx )
 
 ### ■When starting the server on the local PC
