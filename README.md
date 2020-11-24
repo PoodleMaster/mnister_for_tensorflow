@@ -68,20 +68,20 @@ mnister_for_Tensorflow
 ※1：export model <- [TensorFlow Model] exported by Lobe.
 ```
 export model
-│
-├─example
-│ │
-│ ├─README.md
-│ ├─requirements.txt
-│ └─tf_example.py
-│
-├─variables
-│ │
-│ ├─variables.data-00000-of-00001
-│ └─variables.index
-│
-├─saved_model.pb
-└─signature.json
+   │
+   ├─example
+   │ │
+   │ ├─README.md
+   │ ├─requirements.txt
+   │ └─tf_example.py
+   │
+   ├─variables
+   │ │
+   │ ├─variables.data-00000-of-00001
+   │ └─variables.index
+   │
+   ├─saved_model.pb
+   └─signature.json
 ```
 
 ## ■Contributing
