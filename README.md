@@ -14,7 +14,7 @@ Perform MNIST using Lobe(Tensorflow model).
 ※See below for details. ( https://qiita.com/PoodleMaster/items/xxxx )
 
 ### ■When starting the server on the local PC
-#### ■Start the server
+#### (1)Start the server
 - Initial settings for starting the server.
 ``` 
 git clone https://github.com/PoodleMaster/mnister_for_Tensorflow
@@ -28,12 +28,12 @@ pip install tensorflow pillow flask flask_ngrok
 python server.py
 ```
 
-#### ■Access the server
+#### (2)Access the server
 - Access "http://127.0.0.1:5000/" with a browser.
 
 
 ### ■When starting the server on the Google Colab
-#### ■Start the server
+#### (1)Start the server
 - Initial settings for starting the server.
 ``` 
 !git clone https://github.com/PoodleMaster/mnister_for_Tensorflow
@@ -46,7 +46,7 @@ python server.py
 !python server.py
 ```
 
-#### ■Access the server
+#### (2)Access the server
 - Access the URL (http://xxxxxxxxxxxx.ngrok.io) issued by NGROK.
 
 ## ■Supplement
