@@ -3,15 +3,15 @@ Perform MNIST using Lobe(Export Tensorflow Model).
 ![system](https://user-images.githubusercontent.com/69660581/100043780-75e36e80-2e51-11eb-8f06-3906b9b4341a.png)
 
 ## ■Requirements
-- [Lobe](https://lobe.ai/) -> export TensorFlow model. (Please prepare your own Export Tensorflow Model.)
+- [Lobe](https://lobe.ai/) -> export TensorFlow model. ( Please prepare your own Export Tensorflow Model. )
 - Server：Local PC or Google Colab
 - Browser：Local PC
 
 ## ■Starting Method
 - Start the server on your local PC or Google Colab.
-- Start Browser on your local PC and access the server (http://127.0.0.1:5000/).
+- Start Browser on your local PC and access the server ( http://127.0.0.1:5000/ ).
 
-※See below for details. ( https://qiita.com/PoodleMaster/items/xxxx )
+※See below for details. ( https://qiita.com/PoodleMaster/items/af5630305df52bed0564 )
 
 ### ■When starting the server on the local PC
 ![sysytem](https://user-images.githubusercontent.com/69660581/100050006-eb543c80-2e5b-11eb-8bdb-bbe7599a8335.png)
